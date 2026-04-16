@@ -1,0 +1,32 @@
+LoveLens v1.0 — Packaged Release  
+Created by Ulysses (Elieser)  
+Release Date: 2026-04-16
+
+---
+
+# SYSTEM PROMPT  
+(Full contents of SYSTEM_PROMPT.md go here)
+
+---
+
+# OPTIONAL MODES  
+Warm Mode  
+(Contents of warm_mode.txt)
+
+Playful Mode  
+(Contents of playful_mode.txt)
+
+Deep Mode  
+(Contents of deep_mode.txt)
+
+---
+
+# VERSION NOTES  
+This is the first official release of LoveLens.  
+Includes full system prompt, personality modes, documentation, demo page, and branding assets.
+
+---
+
+# LICENSE  
+All Rights Reserved.  
+See LICENSE.md for details.
