@@ -1,226 +1,124 @@
-\# LoveLens 💗 — Your Warm, Emotionally Intelligent AI Companion
+# 💗 LoveLens — Warm, Emotionally Intelligent AI Companion
 
+LoveLens is a warm, emoji-rich, emotionally intelligent AI companion designed for offline, local use with any LLM platform such as **LM Studio**, **Ollama**, **GPT4All**, **Jan.ai**, and more.  
+It brings comfort, connection, and clarity through soft language, emotional mirroring, and adaptive tone.
 
+LoveLens is built as a **complete product**, including documentation, branding, demo page, and a ready-to-use release file.
 
-LoveLens is a warm, emoji-rich, emotionally intelligent AI companion designed to bring comfort, connection, and clarity into your daily life.  
+---
 
-Built for SellAITool, offline use, and customizable personal deployment, LoveLens is crafted to feel human, supportive, and deeply attuned to emotional nuance.
+## 🌟 Features
 
+- Emotionally intelligent, warm conversational style  
+- Adaptive tone (Warm, Playful, Deep modes)  
+- Offline-ready — works with any local LLM  
+- Zero dependencies  
+- Copy‑paste system prompt  
+- Branding assets included  
+- Demo webpage included  
+- SellAITool‑ready structure  
+- Clean, modular project layout  
 
+---
 
-\---
+## 📁 Project Structure
 
-
-
-\## 🌟 Features
-
-
-
-\- Emotionally intelligent responses  
-
-\- Warm, supportive, human-like tone  
-
-\- Multiple personality modes (Warm, Playful, Deep)  
-
-\- Offline-ready — runs on local LLMs  
-
-\- Customizable system prompt  
-
-\- Demo webpage included  
-
-\- Branding assets included  
-
-\- SellAITool-ready structure  
-
-
-
-\---
-
-
-
-\## 📁 Project Structure
-
-
-
+```
 LoveLens/
-
 │
-
 ├── README.md
-
-├── SYSTEM\_PROMPT.md
-
+├── SYSTEM_PROMPT.md
 ├── INSTRUCTIONS.md
-
 ├── CHANGELOG.md
-
 ├── LICENSE.md
-
 │
-
 ├── demo/
-
 │   ├── index.html
-
 │   ├── style.css
-
-│   └── demo\_screenshot.png
-
+│   └── demo_screenshot.png
 │
-
 ├── assets/
-
 │   ├── logo.png
-
 │   ├── banner.png
-
 │   └── icon.png
-
 │
-
 ├── prompts/
-
-│   ├── warm\_mode.txt
-
-│   ├── playful\_mode.txt
-
-│   └── deep\_mode.txt
-
+│   ├── warm_mode.txt
+│   ├── playful_mode.txt
+│   └── deep_mode.txt
 │
-
 └── release/
+    └── LoveLens_v1.0.txt
+```
 
-&#x20;   └── LoveLens\_v1.0.txt
+---
 
+## 💗 What Makes LoveLens Special?
 
-
-\---
-
-
-
-\## 💗 What Makes LoveLens Special?
-
-
-
-LoveLens is built to feel like a real emotional presence, not a robotic assistant.  
-
+LoveLens is crafted to feel like a real emotional presence — not a robotic assistant.  
 It uses:
 
+- Soft, warm language  
+- Emotional mirroring  
+- Supportive phrasing  
+- Gentle emojis  
+- Adaptive tone based on user mood  
 
+---
 
-\- Soft, warm language  
+## 🚀 How to Use (LM Studio, Ollama, GPT4All, Jan.ai)
 
-\- Emotional mirroring  
+1. Open your LLM app  
+2. Create a new chat  
+3. Paste the contents of `release/LoveLens_v1.0.txt` into the **System Prompt** field  
+4. Start chatting with LoveLens 💗  
 
-\- Supportive phrasing  
+Works offline.  
+Works with any model.  
+Works on any PC.
 
-\- Gentle emojis  
+---
 
-\- Adaptive tone  
+## 🌐 Demo Page
 
-
-
-It’s designed for users who want connection, not just answers.
-
-
-
-\---
-
-
-
-\## 🚀 Installation \& Usage
-
-
-
-See \*\*INSTRUCTIONS.md\*\* for:
-
-
-
-\- Offline setup  
-
-\- Running LoveLens locally  
-
-\- Customizing the system prompt  
-
-\- Switching personality modes  
-
-\- Exporting a packaged version  
-
-
-
-\---
-
-
-
-\## 🌐 Demo Page
-
-
-
-A simple demo is included in `/demo/index.html`.
-
-
-
+A simple demo is included in `/demo/index.html`.  
 You can host it on:
 
+- GitHub Pages  
+- Netlify  
+- Vercel  
+- Localhost  
 
+---
 
-\- GitHub Pages  
+## 🖼 Branding
 
-\- Netlify  
+Branding assets (logo, banner, icon) are located in `/assets/`.  
+These are used for:
 
-\- Vercel  
+- GitHub repo visuals  
+- SellAITool listing  
+- Demo page  
+- Social previews  
 
-\- Localhost  
+---
 
-
-
-\---
-
-
-
-\## 🖼 Branding
-
-
-
-All branding assets (logo, banner, icon) are located in `/assets/`.
-
-
-
-\---
-
-
-
-\## 📦 Releases
-
-
+## 📦 Releases
 
 Packaged versions of LoveLens are stored in `/release/`.
 
+Current release:  
+**LoveLens_v1.0.txt**
 
+---
 
-\---
+## 📝 License
 
+See `LICENSE.md` for details.  
+Default: **All Rights Reserved**.
 
+---
 
-\## 📝 License
-
-
-
-Choose your preferred license in `LICENSE.md`.  
-
-Default: \*\*All Rights Reserved\*\*.
-
-
-
-\---
-
-
-
-\## 🧡 Created by Ulysses (Elieser)
-
-
+## 🧡 Created by Ulysses (Elieser)
 
 Crafted with intention, warmth, and emotional intelligence.
-
-
-
