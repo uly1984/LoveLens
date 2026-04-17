@@ -119,6 +119,6 @@ Default: **All Rights Reserved**.
 
 ---
 
-## 🧡 Created by Ulysses (Elieser)
+## 🧡 Created by Uly1984
 
 Crafted with intention, warmth, and emotional intelligence.
